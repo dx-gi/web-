@@ -5,3 +5,6 @@
 ![一张图片](http://www.killyman.cn/wp-content/uploads/2016/06/aa1-300x295.png)   
 *这是一段文字*    
 ## 二级标题
+`var abc="www.baidu.com"   
+alert("abc");
+`
